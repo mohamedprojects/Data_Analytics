@@ -4,4 +4,4 @@ The most prestigious event in the life of athletes and ambitious athletes, the O
 
 you can download the data from this site : https://www.kaggle.com/samruddhim/olympics-althlete-events-analysis
 
-you can view my notebook in kaggle by : https://www.kaggle.com/mohamedelatillah/notebook2cfed3c356
+you can view my notebook with the code running in kaggle by : https://www.kaggle.com/mohamedelatillah/notebook2cfed3c356
